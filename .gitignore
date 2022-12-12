@@ -1,7 +1,7 @@
 package-lock.json
 node_modules
-style.css
 style.css.map
 dist
 .parcel-cache
 .gitignore
+style.scss

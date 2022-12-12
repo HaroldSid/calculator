@@ -1,0 +1,36 @@
+h1 {
+  margin: 2%;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: fit-content;
+  margin: 5% 40% 0 40%;
+  border: 3px;
+  border-color: black;
+  border-style: solid;
+}
+
+.screenCal {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  text-align: right;
+  margin: 0 5% 2% 5%;
+  padding-right: 1%;
+}
+
+.line {
+  display: flex;
+  justify-content: space-around;
+}
+
+.keyCal {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  width: 40px;
+}/*# sourceMappingURL=style.css.map */
